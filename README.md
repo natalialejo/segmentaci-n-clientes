@@ -1,32 +1,19 @@
 # segmentacion_clientes
-Análisis descriptivo y segmentación de clientes mediante RFM para una tienda especializada en productos alimenticios importados llamada El Mercado.
+Proyecto de análisis descriptivo y segmentación de clientes mediante RFM para una tienda especializada en productos alimenticios importados llamada El Mercado.Trabajo que forma parte del Bootcamp de análisis de datos de Laboratoria 2024.
 proyecto-segmentacion/
 
 ## Estructura del Repositorio
 
-- **docs/**: Documentación del proyecto, incluyendo la ficha técnica.
+- **docs/**: Ficha técnica, documentación del proyecto
 - **README.md**: Descripción general del proyecto.
 - **LICENSE**: Licencia del proyecto.
 
-## Metodología
+## Enlaces a Proyecto
 
-1. **Limpieza y Preparación de Datos**: Uso de Google Sheets para la organización y limpieza de datos.
-2. **Análisis Exploratorio**: Realizado con tablas dinámicas y gráficos en Google Sheets.
-3. **Aplicación de Técnica RFM**: Segmentación de clientes basada en Recencia, Frecuencia y Valor Monetario.
-4. **Análisis de Cohortes**: Evaluación de la retención de clientes a lo largo del tiempo.
-5. **Documentación**: Detallada en la ficha técnica.
+- [Proyecto Google Sheets](https://lc.cx/xxja2Z)
+- [PPT Google Slide](https://lc.cx/6TQk9Z)
+- [Presentación Loom](https://www.loom.com/share/2e43e64c26ed47699a29024457cfc3a3?sid=e69e857d-7a75-42b7-8898-d1c0c7918b12)
 
-## Enlaces a Hojas de Cálculo
-
-- [Análisis Exploratorio](https://link-to-google-sheet.com)
-- [Segmentación RFM](https://link-to-google-sheet.com)
-- [Análisis de Cohortes](https://link-to-google-sheet.com)
-
-## Resultados y Recomendaciones
-
-
-
----
 
 Elaborado por: Natalia Alejandro  
-Fecha: miercoles 12 de junio, 2024 
+Fecha: miércoles 12 de junio, 2024 
